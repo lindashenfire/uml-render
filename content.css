@@ -1,0 +1,23 @@
+/* UML Render - Content Styles */
+
+/* 容器样式已在 JS 中内联定义，此文件用于全局样式覆盖 */
+
+.uml-rendered-container {
+  /* 基础样式已在 JS 中定义 */
+}
+
+.uml-preview-img {
+  /* 图片样式已在 JS 中定义 */
+}
+
+.uml-toast {
+  /* Toast 样式已在 JS 中定义 */
+}
+
+.uml-image-modal {
+  /* 模态框样式已在 JS 中定义 */
+}
+
+.uml-error-badge {
+  /* 错误提示样式已在 JS 中定义 */
+}
